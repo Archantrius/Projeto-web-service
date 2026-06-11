@@ -36,16 +36,16 @@ pip install flask
 ```
 
 ### 3. Iniciar o servidor
-Execute o arquivo `Server.py`:
+Execute o arquivo `server.py`:
 ```bash
-python Server.py
+python server.py
 ```
 O servidor estará disponível em `http://localhost:3000`.
 
 ### 4. Executar o cliente
 Em outro terminal, rode:
 ```bash
-python Client.py
+python client.py
 ```
 
 ---
